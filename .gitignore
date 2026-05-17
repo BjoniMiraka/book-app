@@ -488,5 +488,4 @@ app.db
 app.db-shm
 app.db-wal
 
-
-appsettings.Development.jsonappsettings.Development.json
+appsettings.Development.json
